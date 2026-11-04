@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana perbaikan antarmuka visual 3D: membersihkan seluruh kotak teks statis dan badge mengambang yang menutupi objek 3D (kelereng, kotak wadah, larik kristal, dan baki), memindahkan indikator informasi ke bilah info rapi di luar kanvas, mengintegrasikan tombol interaksi yang benar-benar berfungsi ke panel kontrol, serta menyempurnakan sudut pandang kamera Three.js agar objek peraga terlihat lapang dan jelas bagi siswa kelas 4 SD.",
+  "updatedAt":  "2026-11-02T07:38:35.504656709Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

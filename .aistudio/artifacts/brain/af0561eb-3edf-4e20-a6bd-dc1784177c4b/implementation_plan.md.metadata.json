@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana penyesuaian tata letak Misi Awal dan Akhir (Pretest & Posttest): menghapus elemen kotak ilustrasi di bawah soal agar fokus dan tidak membingungkan, serta mengoptimalkan proporsi vertikal antarmuka agar terkunci pas dalam satu layar (single viewport) tanpa memerlukan scroll bar.",
+  "updatedAt": "2026-11-03T13:03:46.862666057Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

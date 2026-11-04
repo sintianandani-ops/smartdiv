@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Fredoka', 'Nunito', sans-serif;
+  }
+}
+
+@keyframes bounceSlow {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes mouthTalk {
+  0%, 100% {
+    transform: scaleY(0.4);
+  }
+  50% {
+    transform: scaleY(1.2);
+  }
+}
+
+@keyframes waveArm {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(15deg);
+  }
+}
+
+.animate-bounce-slow {
+  animation: bounceSlow 2.5s ease-in-out infinite;
+}
+
+.animate-mouth {
+  animation: mouthTalk 0.22s ease-in-out infinite alternate;
+}
+
+.animate-wave {
+  animation: waveArm 1s ease-in-out infinite;
+}

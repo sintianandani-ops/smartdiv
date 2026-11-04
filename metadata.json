@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix Remix Petualangan Pembagian AR",
+  "description": "Media pembelajaran SCAFF-AR untuk mengatasi miskonsepsi pembagian matematika kelas 4 SD dengan dukungan 3D/AR, audio narasi ceria, dan panel peneliti.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
